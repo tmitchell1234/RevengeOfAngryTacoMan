@@ -2,9 +2,9 @@ REVENGE OF ANGRY TACO MAN
 
 Hello, and thank you for playing Revenge of Angry Taco Man! This game has been a production of Team 35:
 Tom Mitchell
-Connor Fossler
-Bryant Arteaga
-Williams Orema
+[Redacted]
+[Redacted]
+[Redacted]
 
 The game should start fine just by running the executable.
 
